@@ -1,0 +1,56 @@
+canonical_identifier: bkk:krp/KR3h0014/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3h0014/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 五代名畫補遺
+  date: '2015-08-24 23:13:59.418650'
+  source:
+    repository: kanripo
+    path: KR3h0014
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3h0014_000-WYG.yaml, hash: 'sha256:c0a8a7fa2686a76c4aab5c0bcbbd36b7d8a3d302c7e89eacf7faa4d1b592a775'}
+  - {seq: 1, filename: KR3h0014_001-WYG.yaml, hash: 'sha256:f34cb3cec05e4ce0179448e8d285e12dfb37a578b609aea2dc7f6173898aa4fe'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3h0014_000-WYG.markers.yaml, hash: 'sha256:84f6181ad19e0f414b3fa2c5dfa313993ec8e9f49545a51c267facc311ad103b'}
+  - {seq: 1, role: markers, filename: assets/KR3h0014_001-WYG.markers.yaml, hash: 'sha256:b260a03618840a052fbe5775683a259b48765ba22047046bfc64e50d71c1bc62'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3h0014_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 576
+  label: 目録
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3h0014_WYG_000-5a
+    span:
+    - body
+    - 576
+    - 918
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3h0014_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 4775
+  label: 五代名畫補遺
+  type: section
+  level: 1
+hash: sha256:7ff29455d5d6cea83c9556551150878f12f65f9f681adb051952091084a1a634
