@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3h0014_000.yaml, hash: 'sha256:ad0311ab2bb9bfd621b2f4be7c458f8e364eef2d561d62a857712734fdcb3356'}
   - {seq: 1, filename: KR3h0014_001.yaml, hash: 'sha256:1ce243bc4258cbfb72efd9f97cc413cd629731e4e49b4903722fdab7a2732298'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3h0014_000.markers.yaml, hash: 'sha256:7983b2f99f633e44bb3997311dec46ebc6878c808b56a2cfd589fa74d8780087'}
-  - {seq: 1, role: markers, filename: assets/KR3h0014_001.markers.yaml, hash: 'sha256:62a137879054d0041b38d0e397008aee9189964e29ca0b60fff9b455b0c981a1'}
+  - {seq: 0, role: markers, filename: assets/KR3h0014_000.markers.yaml, hash: 'sha256:6e4c6a27581a88945b72df5501ef15aaee454e1e76fc4c095a9c18ba2f91145a'}
+  - {seq: 1, role: markers, filename: assets/KR3h0014_001.markers.yaml, hash: 'sha256:b82c68dfc402e1fe0d78f874a05f299a5cd13318f7e21850777aa629b79db53a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,7 +56,7 @@ table_of_contents:
   label: 五代名畫補遺
   type: section
   level: 1
-hash: sha256:c201f70a6c3e2a835ac1cf1d973c71845b1767bc5bc6a6cee6f61856e8a17dc2
+hash: sha256:308b33ec41ee6b10bf2df3cff1d5325a048b1f6dff7ebe054437b992ac8d8f74
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
